@@ -1,0 +1,22 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaghuDalal/activityStatusScript.git"
+  },
+  "author": "Raghu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaghuDalal/activityStatusScript/issues"
+  },
+  "homepage": "https://github.com/RaghuDalal/activityStatusScript#readme",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
