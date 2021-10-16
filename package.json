@@ -1,6 +1,6 @@
 {
-  "name": "script",
-  "version": "1.0.0",
+  "name": "messenger-puppet",
+  "version": "0.1.0",
   "description": "",
   "main": "script.js",
   "scripts": {
@@ -9,15 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RaghuDalal/activityStatusScript.git"
+    "url": "git+https://github.com/Mannvender/messenger-puppet.git"
   },
-  "author": "Raghu",
+  "author": "mannvender",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RaghuDalal/activityStatusScript/issues"
+    "url": "https://github.com/Mannvender/messenger-puppet/issues"
   },
-  "homepage": "https://github.com/RaghuDalal/activityStatusScript#readme",
+  "homepage": "https://github.com/Mannvender/messenger-puppet#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "puppeteer": "^9.1.1"
   }
 }
